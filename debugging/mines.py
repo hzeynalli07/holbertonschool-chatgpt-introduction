@@ -84,7 +84,3 @@ class Minesweeper:
 if __name__ == "__main__":
     game = Minesweeper()
     game.play()
-EOFchmod +x mines.py
-clear
-
-
